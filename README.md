@@ -11,7 +11,7 @@
 
 - Languages Used : HTML, CSS & JavaScript
 
-- [Check it out Now!](https://usamacsjmi.github.io/csv-viewer/)
+- [Check it out Now!](https://usamacsjmi.github.io/todo-list/)
 
 ## Features
 
